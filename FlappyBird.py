@@ -12,6 +12,8 @@ registro = open('registro.txt','a')
 registro.write(f'Nome: {nome}\nEmail: {email}\n')
 registro.close()
 
+icone = pygame.image.load("resources/icon.png")
+
 pygame.init()
 
 path_dir = os.path.dirname(__name__)
