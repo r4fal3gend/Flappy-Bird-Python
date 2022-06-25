@@ -1,3 +1,3 @@
 ![logo](https://user-images.githubusercontent.com/72171388/175753901-75945500-e963-4d72-b616-745ad1a217cc.png)
 
-O objetivo no jogo é ganhar o maior número possível de pontos, controlando um pássaro (pressionando a tecla espaço) sem colidir nos canos. Se o pássaro tocar em algum obstáculo, o jogo termina. Sempre que o personagem passa por um conjunto de canos, o jogador ganha um ponto.
+𝐎 𝐨𝐛𝐣𝐞𝐭𝐢𝐯𝐨 𝐧𝐨 𝐣𝐨𝐠𝐨 𝐞 𝐠𝐚𝐧𝐡𝐚𝐫 𝐨 𝐦𝐚𝐢𝐨𝐫 𝐧𝐮𝐦𝐞𝐫𝐨 𝐩𝐨𝐬𝐬𝐢𝐯𝐞𝐥 𝐝𝐞 𝐩𝐨𝐧𝐭𝐨𝐬, 𝐜𝐨𝐧𝐭𝐫𝐨𝐥𝐚𝐧𝐝𝐨 𝐮𝐦 𝐩𝐚𝐬𝐬𝐚𝐫𝐨 (𝐩𝐫𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐧𝐝𝐨 𝐚 𝐭𝐞𝐜𝐥𝐚 𝐞𝐬𝐩𝐚ç𝐨) 𝐬𝐞𝐦 𝐜𝐨𝐥𝐢𝐝𝐢𝐫 𝐧𝐨𝐬 𝐜𝐚𝐧𝐨𝐬. 𝐒𝐞 𝐨 𝐩𝐚𝐬𝐬𝐚𝐫𝐨 𝐭𝐨𝐜𝐚𝐫 𝐞𝐦 𝐚𝐥𝐠𝐮𝐦 𝐨𝐛𝐬𝐭𝐚𝐜𝐮𝐥𝐨, 𝐨 𝐣𝐨𝐠𝐨 𝐭𝐞𝐫𝐦𝐢𝐧𝐚. 𝐒𝐞𝐦𝐩𝐫𝐞 𝐪𝐮𝐞 𝐨 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐠𝐞𝐦 𝐩𝐚𝐬𝐬𝐚 𝐩𝐨𝐫 𝐮𝐦 𝐜𝐨𝐧𝐣𝐮𝐧𝐭𝐨 𝐝𝐞 𝐜𝐚𝐧𝐨𝐬, 𝐨 𝐣𝐨𝐠𝐚𝐝𝐨𝐫 𝐠𝐚𝐧𝐡𝐚 𝐮𝐦 𝐩𝐨𝐧𝐭𝐨.
